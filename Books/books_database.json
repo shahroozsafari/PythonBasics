@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Python Programming",
+        "author": "Van Rossum",
+        "pages": 350,
+        "price": 25.6,
+        "year": 2005,
+        "isbn": "10100"
+    },
+    {
+        "title": "SQL Server",
+        "author": "Tennenbam",
+        "pages": 300,
+        "price": 15.0,
+        "year": 2021,
+        "isbn": "10101"
+    },
+    {
+        "title": "C++",
+        "author": "Jafarnejad",
+        "pages": 500,
+        "price": 40.0,
+        "year": 2000,
+        "isbn": "10102"
+    },
+    {
+        "title": "Physics",
+        "author": "Holiday",
+        "pages": 1050,
+        "price": 102.0,
+        "year": 2003,
+        "isbn": "10103"
+    },
+    {
+        "title": "Network +",
+        "author": "Comptia",
+        "pages": 450,
+        "price": 80.0,
+        "year": 2023,
+        "isbn": "10104"
+    }
+]
